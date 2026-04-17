@@ -29,7 +29,6 @@ pom.xml.versionsBackup
 **/local.properties
 **/build
 **/target
-**/.env
 .instance_id
 rebuild-docker.sh
 */.run/**
@@ -37,3 +36,8 @@ rebuild-docker.sh
 .run
 
 
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
+branch_structure.json
